@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+*{
+font-family: 'Kanit', sans-serif !important;
+}
+
+.register-background, .userDetails{
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.menu{
+    font-weight: 700;
+}
+
+.text-muted{
+    font-weight: 100 !important;
+}
+
+.menuContainer{
+    border: 5px solid #78c2ad !important;
+    border-radius: 15px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+}
