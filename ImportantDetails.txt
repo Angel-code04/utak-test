@@ -1,0 +1,13 @@
+Database: 
+
+email: angelplaton1010@gmail.com
+password: Utaktest
+(note: after logging in, click "View MongoDB atlas" then click on "Browse Collections" 
+then you can already see the data that have been push thru to the database.
+You can see the data structure/data  model in the Github repo. Just go to the "utak-api" folder,
+then go to "models" folder then click on "User.js" to see how the data structure before pushing to the database)
+
+
+Github Repo: 
+
+https://github.com/Angel-code04/utak-test
